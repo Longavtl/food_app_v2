@@ -1,0 +1,10 @@
+
+Ljavascript:S1128"+Remove this unused import of 'cartService'.(ëÅÙéıÿÿÿÿ
+Ejavascript:S1128"$Remove this unused import of 'Swal'.(ˆƒÉÍüÿÿÿÿ
+Bjavascript:S1128"&Remove this unused import of 'format'.(¶Ì™À
+9javascript:S3863"'react' import is duplicated.(¡Ş–®
+Ujavascript:S1481"9Remove the declaration of the unused 'navigate' variable.(üêÜå
+Rjavascript:S1854"6Remove this useless assignment to variable "navigate".(üêÜå
+[javascript:S1481"?Remove the declaration of the unused 'setPaypalValue' variable.(î…µÁ
+Xjavascript:S1854"<Remove this useless assignment to variable "setPaypalValue".(î…µÁ
+:javascript:S125"Remove this commented out code.(ÂàÀ

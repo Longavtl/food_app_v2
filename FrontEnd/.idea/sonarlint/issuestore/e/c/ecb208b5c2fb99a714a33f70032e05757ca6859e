@@ -1,0 +1,9 @@
+
+>javascript:S3863"'react' import is duplicated.(„„±ªýÿÿÿÿ
+`javascript:S1481"?Remove the declaration of the unused 'showProductErr' variable.(¹˜ÕŸýÿÿÿÿ
+]javascript:S1854"<Remove this useless assignment to variable "showProductErr".(¹˜ÕŸýÿÿÿÿ
+:javascript:S125o"Remove this commented out code.(æª§¼
+Kjavascript:S6544x"/Promise executor functions should not be async.(òÄÆØ
+@javascript:S6479û"Do not use Array index in keys(ÂÍ»ûÿÿÿÿÿ
+@javascript:S6479¡"Do not use Array index in keys(ÂÍ»ûÿÿÿÿÿ
+@javascript:S6479Ý"Do not use Array index in keys(…ÅÍ“ÿÿÿÿÿ
